@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kmlbon
-- 👀 I’m interested in PHP & Laravel
+- 👀 I’m interested in PHP
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me kmlbon@icloud.com
 
